@@ -6,7 +6,7 @@ LONG_DESCRIPTION = 'Contains Pytorch/ TensorFlow algorithms I have found in a si
 
 # Setting up
 setup(
-        name="DYCodeBase", 
+        name="dycodebase", 
         version=VERSION,
         author="Devin De Silva",
         author_email="devin@irononetech.com",
