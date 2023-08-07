@@ -1,1 +1,1 @@
-from squeeze_excite import *
+from .squeeze_excite import *
