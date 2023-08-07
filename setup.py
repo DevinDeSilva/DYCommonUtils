@@ -18,7 +18,7 @@ setup(
         
         keywords=['python', 'codebase'],
         classifiers= [
-            "Development Status :: 3 - Pre-Alpha",
+            "Development Status :: 3 - Alpha",
             "Intended Audience :: Developers",
             "Programming Language :: Python :: 3.9",
             "Operating System :: MacOS :: MacOS X",
