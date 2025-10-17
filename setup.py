@@ -1,19 +1,19 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.5' 
+VERSION = '0.0.6' 
 DESCRIPTION = 'CodeBase of important Functions'
 LONG_DESCRIPTION = 'Contains Pytorch/ TensorFlow algorithms I have found in a single module'
 
 # Setting up
 setup(
-        name="dycodebase", 
+        name="dycomutils", 
         version=VERSION,
         author="Devin De Silva",
-        author_email="devin@irononetech.com",
+        author_email="desild@rpi.edu",
         description=DESCRIPTION,
         long_description=LONG_DESCRIPTION,
         packages=find_packages(),
-        install_requires=["tensorflow"], # add any additional packages that 
+        install_requires=[], # add any additional packages that 
         # needs to be installed along with your package. Eg: 'caer'
         
         keywords=['python', 'codebase'],
